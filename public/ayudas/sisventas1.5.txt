@@ -1,0 +1,10 @@
+actualizacion 1.5
+vuelta de la abilitacion livewire en ingreso, 
+crea articulos y obtenlos directamente en ingreso sin tener que perder la informacion asi como proveedor y categoria.
+el sistema va segun la velocidad del internet se recomienda hacer el ingreso con calma.
+una vez ingresado los datos deben de ser correctos por lo que si hay un error este no se puede editar solo se puede anular
+lo que causara un retorno de stock solamente y habra que volver a ingresar.
+ingreso de dos veces el mismo articulo con distintas fechas, se podra ingresar uno por uno la fecha de vencimiento de los 
+productos que lleguen.
+el ingreso actualizara el almacen principalmente en stock precio de compra venta peso empresa 
+pero la anulacion solo devolvera los datos de stock por lo que lo demas quedara modificado asta volver hacer el ingreso correcto
